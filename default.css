@@ -1,5 +1,8 @@
 .container {
-  font-size 14px
-  font-family stuff
+  font-size:; 14px;
+  font-family: helvetica;
 
 Adding another line to test mergeing
+
+.large {
+  font-size: 280px;
