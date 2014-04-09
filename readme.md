@@ -1,5 +1,5 @@
-# My First Git Project Class
+# My First Github Project Class
 
-## Future Wokr
+## Future I need to learn to spell
 * Add License
 * Add personal information things I will need to know later
